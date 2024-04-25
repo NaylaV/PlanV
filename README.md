@@ -15,11 +15,12 @@ PlanV es un sitio en el que los usuarios van a poder ver recomendaciones y punto
 > Follow your heart.
 
 ##Contribuir al proyecto
+
 Las contribuciones son el motor que impulsa la comunidad del código abierto, un espacio donde el aprendizaje, la inspiración y la creación se entrelazan. ¡Cada gesto que sumes es valorado enormemente!
 
 Si tienes alguna sugerencia que podría mejorar el proyecto, por favor haz un [Fork](https://github.com/NaylaV/planV/forks "Fork") del repositorio y crea una [pull request](https://github.com/NaylaV/planV/pulls "pull request"). También puedes simplemente abrir un [issue](https://github.com/NaylaV/planV/issues "issue").
 
- Guía rápida:
+Guía rápida:
 
 1. Has un [Fork](https://github.com/NaylaV/planV/forks "Fork") del proyecto
 2. Clona tu  [Fork](https://github.com/NaylaV/planV/forks "Fork") (`git clone <URL del fork>`)
@@ -30,9 +31,9 @@ Si tienes alguna sugerencia que podría mejorar el proyecto, por favor haz un [F
 7. Abre una [pull request](https://github.com/NaylaV/planV/pulls "pull request")
 
 ##:tw-1f527: **Stack**
+
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML "HTML")
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS "CSS")
 -  [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript "JavaScript")
-
 
 
