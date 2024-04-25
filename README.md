@@ -30,7 +30,7 @@ Guía rápida:
 6. Haz Push a la Rama (`git push origin feature/CaracteristicaIncreible`)
 7. Abre una [pull request](https://github.com/NaylaV/planV/pulls "pull request")
 
-## :tw-1f527: **Stack**
+## :wrench: **Stack**
 
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML "HTML")
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS "CSS")
