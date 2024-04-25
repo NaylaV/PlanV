@@ -2,7 +2,7 @@
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 </p>
 
-# PlanV
+# **PlanV**
 
 PlanV es un sitio en el que los usuarios van a poder ver recomendaciones y puntos de interés en misiones, tal como organizar su viaje dentro de la provincia en las fechas de su estadía.
 
