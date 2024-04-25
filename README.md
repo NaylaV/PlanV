@@ -8,13 +8,13 @@ PlanV es un sitio en el que los usuarios van a poder ver recomendaciones y punto
 
 [Diseño en Figma](http://# "Diseño en Figma")
 
-##Capturas de pantalla de PlanV
+## Capturas de pantalla de PlanV
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
 > Follow your heart.
 
-##Contribuir al proyecto
+## Contribuir al proyecto
 
 Las contribuciones son el motor que impulsa la comunidad del código abierto, un espacio donde el aprendizaje, la inspiración y la creación se entrelazan. ¡Cada gesto que sumes es valorado enormemente!
 
@@ -30,7 +30,7 @@ Guía rápida:
 6. Haz Push a la Rama (`git push origin feature/CaracteristicaIncreible`)
 7. Abre una [pull request](https://github.com/NaylaV/planV/pulls "pull request")
 
-##:tw-1f527: **Stack**
+## :tw-1f527: **Stack**
 
 - [HTML](https://developer.mozilla.org/es/docs/Web/HTML "HTML")
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS "CSS")
