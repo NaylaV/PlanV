@@ -6,7 +6,7 @@
 
 PlanV es un sitio en el que los usuarios van a poder ver recomendaciones y puntos de interés en misiones, tal como organizar su viaje dentro de la provincia en las fechas de su estadía.
 
-[Diseño en Figma](http://# "Diseño en Figma")
+[Diseño en Figma](https://www.figma.com/design/q5LdBmdDQ4n83maRlW0ANT/Turism-(Community)?node-id=202-394&t=kon795tlBBCiY8pN-0)
 
 ## Capturas de pantalla de PlanV
 
