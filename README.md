@@ -1,5 +1,5 @@
 <p align="center">
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](img/icon.png)
 </p>
 
 # **PlanV**
@@ -10,7 +10,7 @@ PlanV es un sitio en el que los usuarios van a poder ver recomendaciones y punto
 
 ## Capturas de pantalla de PlanV
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](./img/pantallaPrincipal.png)
 
 > Follow your heart.
 
