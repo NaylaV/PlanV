@@ -1,5 +1,6 @@
 <p align="center">
-![](img/icon.png)
+![](![image](https://github.com/NaylaV/planV/assets/114872797/9e41c25f-95cf-4768-9b64-9a5edfe31fb7)
+)
 </p>
 
 # **PlanV**
