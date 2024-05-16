@@ -1,6 +1,4 @@
 <p align="center">
-![](./img/maleta.png)
-)
 </p>
 
 # **PlanV**
