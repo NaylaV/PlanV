@@ -1,6 +1,6 @@
 <?php
  
-$conexion=new mysql("localhost","root","","login","0001");
+$conexion=new mysqli("localhost","root","","login","3306");
 $conexion->set_charset("utf8");
 
 ?>
